@@ -1,0 +1,11 @@
+body {
+    font-family: Roboto;
+    background-color: whitesmoke;
+}
+
+.text-box {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 30%;
+}
